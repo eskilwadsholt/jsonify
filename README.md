@@ -1,7 +1,7 @@
-# Swipeable
-This project is showcasing how to apply an event factory to a Svelte-component in order to control swipe events and event forwarding better. A live demo can be found here:
+# Jsonify
+This project is about visualizing json data in Svelte. A live demo can be found here:
 
-[Swipeable on Netlify](https://swipeable.netlify.app/)
+[Jsonify on Netlify](https://jsonify-svelte.netlify.app/)
 
 # template
 In the following you can see the original readme from when creating the svelte template.

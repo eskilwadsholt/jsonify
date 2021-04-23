@@ -9,6 +9,13 @@
 	--uparrow: #8F88;
 	--dark-uparrow: #282;
 	--downarrow: #F888;
+	--string-color: darkorange;
+	--number-color: #5B5;
+	--key-color: #C08;
+	--array-key-color: #88A;
+	--other-color: #6AF;
+	--object-color: #88F;
+	--array-color: #8F8;
 }
 
 * {
