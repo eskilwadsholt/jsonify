@@ -17,15 +17,6 @@
         count = isArray ? content.length: Object.entries(content).length;
         maxIndex = count - 1;
     }
-
-/*    console.debug(`
-    stringify: ${String(content)}
-    isNull: ${isNull}
-    isObject: ${isObject}
-    isArray: ${isArray}
-    isString: ${isString}
-    isNumber: ${isNumber}
-    `);*/
 </script>
 
 {#if isString}
